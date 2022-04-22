@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Degiro',
+			icon: 'landmark',
+			link: 'https://www.degiro.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'You Need a Budget',
+			icon: 'piggy-bank',
+			link: 'https://www.youneedabudget.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'PiHole',
+			icon: 'shield',
+			link: 'http://pihole/admin/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Syncthing',
+			icon: 'refresh-cw',
+			link: 'https://127.0.0.1:8384/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Plex',
+			icon: 'film',
+			link: 'http://plex:32400/web/index.html',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Bifrost',
+			icon: 'network',
+			link: 'https://bifrost/',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'play',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sonarr',
+					link: 'http://localhost:8989/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Radarr',
+					link: 'http://localhost:7878/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jackett',
+					link: 'http://localhost:9117/UI/Dashboard',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Storage',
+					link: 'http://storage/UI/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Palavra do Dia',
+					link: 'https://palavra-do-dia.pt/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Termo',
+					link: 'https://termo.pt/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Worldle',
+					link: 'https://worldle.teuteuf.fr/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'LoFi',
+					link: 'https://www.lofi.cafe/',
 				},
 			],
 		},
