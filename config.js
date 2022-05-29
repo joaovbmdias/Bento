@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Jackett',
-					link: '192.168.1.201:30503/UI/Dashboard',
+					link: 'http://192.168.1.201:30503/UI/Dashboard',
 				},
 				{
 					name: 'Storage',
