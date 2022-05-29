@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Plex',
+			name: 'HBO Max',
 			icon: 'film',
-			link: 'http://plex:32400/web/index.html',
+			link: 'https://www.hbomax.com/',
 		},
 		{
 			id: '6',
@@ -140,15 +140,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Sonarr',
-					link: 'http://localhost:8989/',
+					link: 'http://192.168.1.201:30501',
 				},
 				{
 					name: 'Radarr',
-					link: 'http://localhost:7878/',
+					link: 'http://192.168.1.202:30502',
 				},
 				{
 					name: 'Jackett',
-					link: 'http://localhost:9117/UI/Dashboard',
+					link: '192.168.1.201:30503/UI/Dashboard',
 				},
 				{
 					name: 'Storage',
