@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Sonarr',
-					link: 'http://k8s-master-1/sonarr',
+					link: 'http://mediacenter/sonarr',
 				},
 				{
 					name: 'Radarr',
-					link: 'http://k8s-master-1/radarr',
+					link: 'http://mediacenter/radarr',
 				},
 				{
 					name: 'Jackett',
-					link: 'http://k8s-master-1/jackett',
+					link: 'http://mediacenter/jackett',
 				},
 				{
 					name: 'Transmission',
-					link: 'http://k8s-master-1/transmission',
+					link: 'http://mediacenter/transmission',
 				},
 				{
 					name: 'Storage',
