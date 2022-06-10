@@ -140,15 +140,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Sonarr',
-					link: 'http://192.168.1.201:30501',
+					link: 'http://k8s-master-1/sonarr',
 				},
 				{
 					name: 'Radarr',
-					link: 'http://192.168.1.202:30502',
+					link: 'http://k8s-master-1/radarr',
 				},
 				{
 					name: 'Jackett',
-					link: 'http://192.168.1.201:30503/UI/Dashboard',
+					link: 'http://192.168.1.201:30031',
 				},
 				{
 					name: 'Storage',
