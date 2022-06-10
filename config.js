@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Jackett',
-					link: 'http://192.168.1.201:30031',
+					link: 'http://k8s-master-1/jackett',
 				},
 				{
 					name: 'Storage',
