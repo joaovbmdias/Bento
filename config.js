@@ -151,6 +151,10 @@ const CONFIG = {
 					link: 'http://k8s-master-1/jackett',
 				},
 				{
+					name: 'Transmission',
+					link: 'http://k8s-master-1/transmission',
+				},
+				{
 					name: 'Storage',
 					link: 'http://storage/UI/',
 				},
