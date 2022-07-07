@@ -59,27 +59,27 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'You Need a Budget',
-			icon: 'piggy-bank',
-			link: 'https://www.youneedabudget.com/',
+			name: 'HBO Max',
+			icon: 'film',
+			link: 'https://www.hbomax.com/',
 		},
 		{
 			id: '3',
+			name: 'Reddit',
+			icon: 'book-open',
+			link: 'https://www.reddit.com/',
+		},
+		{
+			id: '4',
 			name: 'PiHole',
 			icon: 'shield',
 			link: 'http://pihole/admin/',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Syncthing',
 			icon: 'refresh-cw',
 			link: 'https://127.0.0.1:8384/',
-		},
-		{
-			id: '5',
-			name: 'HBO Max',
-			icon: 'film',
-			link: 'https://www.hbomax.com/',
 		},
 		{
 			id: '6',
