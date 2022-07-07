@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'HBO Max',
-			icon: 'film',
-			link: 'https://www.hbomax.com/',
+			name: 'PiHole',
+			icon: 'shield',
+			link: 'http://pihole/admin/',
 		},
 		{
 			id: '3',
@@ -71,21 +71,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'PiHole',
-			icon: 'shield',
-			link: 'http://pihole/admin/',
-		},
-		{
-			id: '5',
-			name: 'Syncthing',
-			icon: 'refresh-cw',
-			link: 'https://127.0.0.1:8384/',
-		},
-		{
-			id: '6',
 			name: 'Bifrost',
 			icon: 'network',
 			link: 'https://bifrost/',
+		},
+		{
+			id: '5',
+			name: 'HBO Max',
+			icon: 'film',
+			link: 'https://www.hbomax.com/',
+		},
+		{
+			id: '6',
+			name: 'Syncthing',
+			icon: 'refresh-cw',
+			link: 'https://127.0.0.1:8384/',
 		},
 	],
 
