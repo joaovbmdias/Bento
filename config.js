@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'PiHole',
-			icon: 'shield',
-			link: 'http://pihole/admin/',
-		},
-		{
-			id: '3',
 			name: 'Reddit',
 			icon: 'book-open',
 			link: 'https://www.reddit.com/',
+		},
+		{
+			id: '3',
+			name: 'PiHole',
+			icon: 'shield',
+			link: 'http://pihole/admin/',
 		},
 		{
 			id: '4',
